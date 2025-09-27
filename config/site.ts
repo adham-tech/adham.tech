@@ -11,8 +11,8 @@ export const siteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/adhamah_",
-    github: "https://github.com/AdhamAH",
+    twitter: "https://twitter.com/@Adham_Tech_",
+    github: "https://github.com/adham-tech",
     docs: "https://adham.tech",
   },
 };

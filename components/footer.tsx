@@ -37,14 +37,14 @@ const FooterComponent = (): JSX.Element => {
         </Link>
         <Link
           aria-label="Link to twitter profile"
-          href={"https://twitter.com/adhamah_"}
+          href={"https://twitter.com/@Adham_Tech_"}
           target="_blank"
         >
           <Twitter />
         </Link>
         <Link
           aria-label="Link to github profile"
-          href={"https://github.com/adhamah"}
+          href={"https://github.com/adham-tech"}
           target="_blank"
         >
           <Github />
